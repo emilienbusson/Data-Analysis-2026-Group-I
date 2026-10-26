@@ -1,4 +1,4 @@
-import panda as pd
+import pandas as pd
 
 df=pd.read_csv("listing_detailed.csv", dtype=("id":str,"host_id":str,"host_profile_id":str,"scrape_id":str)  #j'ai mis les id en string pour éviter un éventuel arrondi
 print(df.shape)
