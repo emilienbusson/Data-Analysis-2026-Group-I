@@ -3,7 +3,7 @@ title: "Airbnb Price Prediction in Switzerland"
 author:
 - Barbey, Timothé
 - Busson, Emilien
-- Cabdulkadir, Omar
+- Cabdulqadir, Omar
 - Joly, Nino
 institute: University of Lausanne,  HEC Lausanne
 date: today
